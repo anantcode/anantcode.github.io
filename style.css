@@ -1,0 +1,24 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+ background-image: url("header.jpg");
+ background-color: #cccccc;
+}
+
+h1 {
+  text-align: center;
+  color: #ECF0F1;
+}
+
+.center {
+  margin: auto;
+  padding: 480px 0;
+}
