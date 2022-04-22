@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 16:16:49 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 16:43:48 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Blog With Hugo</title>
+      <link>https://anantcode.github.io/posts/create-blog-with-hugo/</link>
+      <pubDate>Fri, 22 Apr 2022 16:43:48 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/create-blog-with-hugo/</guid>
+      <description>Create static blog with Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Enable Emmet for JSX in VSCode</title>
+      <link>https://anantcode.github.io/posts/enable-emmet-in-jsx-for-vscode/</link>
+      <pubDate>Fri, 22 Apr 2022 16:34:33 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/enable-emmet-in-jsx-for-vscode/</guid>
+      <description>Get the convenience of Emmet in VSCode when working with JSX</description>
+    </item>
+    
     <item>
       <title>Bash Script to Switch Git Config in New Repo</title>
       <link>https://anantcode.github.io/posts/bash-script-to-switch-git-config-in-new-repo/</link>

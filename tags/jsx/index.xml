@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>jsx on Anant Code</title>
+    <link>https://anantcode.github.io/tags/jsx/</link>
+    <description>Recent content in jsx on Anant Code</description>
+    <image>
+      <url>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2022 16:34:33 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/jsx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enable Emmet for JSX in VSCode</title>
+      <link>https://anantcode.github.io/posts/enable-emmet-in-jsx-for-vscode/</link>
+      <pubDate>Fri, 22 Apr 2022 16:34:33 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/enable-emmet-in-jsx-for-vscode/</guid>
+      <description>Get the convenience of Emmet in VSCode when working with JSX</description>
+    </item>
+    
+  </channel>
+</rss>
