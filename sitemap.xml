@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://anantcode.github.io/</loc>
+    <lastmod>2022-04-22T11:46:51+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/git/</loc>
+    <lastmod>2022-04-22T11:46:51+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/</loc>
+    <lastmod>2022-04-22T11:46:51+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/9-renaming-remote-git-repo/</loc>
+    <lastmod>2022-04-22T11:46:51+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/</loc>
+    <lastmod>2022-04-22T11:46:51+05:30</lastmod>
+  </url><url>
     <loc>https://anantcode.github.io/about/</loc>
     <lastmod>2022-04-21T08:37:23+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/</loc>
-    <lastmod>2022-04-20T18:32:13+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/8-free-svg-favicon-generator-from-text/</loc>
     <lastmod>2022-04-20T18:32:13+05:30</lastmod>
   </url><url>
-    <loc>https://anantcode.github.io/posts/</loc>
-    <lastmod>2022-04-20T18:32:13+05:30</lastmod>
-  </url><url>
     <loc>https://anantcode.github.io/tags/resources/</loc>
-    <lastmod>2022-04-20T18:32:13+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/</loc>
     <lastmod>2022-04-20T18:32:13+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/7-free-favicon-generator-from-text/</loc>
