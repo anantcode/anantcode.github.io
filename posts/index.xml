@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Anant Code</title>
+    <link>http://anancode.github.io/posts/</link>
+    <description>Recent content in Posts on Anant Code</description>
+    <image>
+      <url>http://anancode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://anancode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 18:32:13 +0530</lastBuildDate><atom:link href="http://anancode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Svg Favicon Generator From Text</title>
+      <link>http://anancode.github.io/posts/8-free-svg-favicon-generator-from-text/</link>
+      <pubDate>Wed, 20 Apr 2022 18:32:13 +0530</pubDate>
+      
+      <guid>http://anancode.github.io/posts/8-free-svg-favicon-generator-from-text/</guid>
+      <description>Free Tool</description>
+    </item>
+    
+    <item>
+      <title>Free Favicon Generator From Text</title>
+      <link>http://anancode.github.io/posts/7-free-favicon-generator-from-text/</link>
+      <pubDate>Wed, 20 Apr 2022 17:57:46 +0530</pubDate>
+      
+      <guid>http://anancode.github.io/posts/7-free-favicon-generator-from-text/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Best way to add image in markdown file in VSCode - using VSCode plugin &#39;Paste Image&#39;</title>
+      <link>http://anancode.github.io/posts/6-simple-add-image-in-markdown-vscode-plugin/</link>
+      <pubDate>Wed, 20 Apr 2022 17:05:39 +0530</pubDate>
+      
+      <guid>http://anancode.github.io/posts/6-simple-add-image-in-markdown-vscode-plugin/</guid>
+      <description>Simplify adding images to your Hugo blog post using VSCode plugin when editing md files</description>
+    </item>
+    
+    <item>
+      <title>How to Write Multiline Text in YML File</title>
+      <link>http://anancode.github.io/posts/4-write-multiline-text-in-yml-file/</link>
+      <pubDate>Wed, 20 Apr 2022 06:43:37 +0530</pubDate>
+      
+      <guid>http://anancode.github.io/posts/4-write-multiline-text-in-yml-file/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>How to create a new Post in a Hugo blog</title>
+      <link>http://anancode.github.io/posts/5-ways-to-create-new-post-in-hugo/</link>
+      <pubDate>Wed, 20 Apr 2022 00:34:14 +0000</pubDate>
+      
+      <guid>http://anancode.github.io/posts/5-ways-to-create-new-post-in-hugo/</guid>
+      <description>Basically creating md file for new post</description>
+    </item>
+    
+    <item>
+      <title>How to add image to a Hugo blogpost</title>
+      <link>http://anancode.github.io/posts/3-add-image-in-hugo-markdown/</link>
+      <pubDate>Sun, 17 Apr 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://anancode.github.io/posts/3-add-image-in-hugo-markdown/</guid>
+      <description>Add image in your blog post</description>
+    </item>
+    
+    <item>
+      <title>Creating a Blog with Next.js and Markdown - Part 1</title>
+      <link>http://anancode.github.io/posts/2-create-blog-with-nextjs-markdown/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://anancode.github.io/posts/2-create-blog-with-nextjs-markdown/</guid>
+      <description>Creating a blog with NextJS and Markdown</description>
+    </item>
+    
+    <item>
+      <title>Why should you start a blog</title>
+      <link>http://anancode.github.io/posts/1-why-should-you-blog/</link>
+      <pubDate>Sat, 09 Apr 2022 06:49:23 +0530</pubDate>
+      
+      <guid>http://anancode.github.io/posts/1-why-should-you-blog/</guid>
+      <description>This is excerpt</description>
+    </item>
+    
+  </channel>
+</rss>
