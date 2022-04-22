@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>first on Anant Code</title>
-    <link>https://anantcode.github.io/tags/first/</link>
-    <description>Recent content in first on Anant Code</description>
+    <title>beginner on Anant Code</title>
+    <link>https://anantcode.github.io/tags/beginner/</link>
+    <description>Recent content in beginner on Anant Code</description>
     <image>
       <url>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 06:43:37 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 06:43:37 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Write Multiline Text in YML File</title>
       <link>https://anantcode.github.io/posts/4-write-multiline-text-in-yml-file/</link>
@@ -18,24 +18,6 @@
       
       <guid>https://anantcode.github.io/posts/4-write-multiline-text-in-yml-file/</guid>
       <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>How to create a new Post in a Hugo blog</title>
-      <link>https://anantcode.github.io/posts/5-ways-to-create-new-post-in-hugo/</link>
-      <pubDate>Wed, 20 Apr 2022 00:34:14 +0000</pubDate>
-      
-      <guid>https://anantcode.github.io/posts/5-ways-to-create-new-post-in-hugo/</guid>
-      <description>Basically creating md file for new post</description>
-    </item>
-    
-    <item>
-      <title>How to add image to a Hugo blogpost</title>
-      <link>https://anantcode.github.io/posts/3-add-image-in-hugo-markdown/</link>
-      <pubDate>Sun, 17 Apr 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://anantcode.github.io/posts/3-add-image-in-hugo-markdown/</guid>
-      <description>Add image in your blog post</description>
     </item>
     
     <item>

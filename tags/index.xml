@@ -30,11 +30,20 @@
     </item>
     
     <item>
-      <title>resources</title>
-      <link>https://anantcode.github.io/tags/resources/</link>
+      <title>dev-resources</title>
+      <link>https://anantcode.github.io/tags/dev-resources/</link>
       <pubDate>Wed, 20 Apr 2022 18:32:13 +0530</pubDate>
       
-      <guid>https://anantcode.github.io/tags/resources/</guid>
+      <guid>https://anantcode.github.io/tags/dev-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://anantcode.github.io/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2022 17:05:39 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -48,11 +57,29 @@
     </item>
     
     <item>
-      <title>first</title>
-      <link>https://anantcode.github.io/tags/first/</link>
+      <title>beginner</title>
+      <link>https://anantcode.github.io/tags/beginner/</link>
       <pubDate>Wed, 20 Apr 2022 06:43:37 +0530</pubDate>
       
-      <guid>https://anantcode.github.io/tags/first/</guid>
+      <guid>https://anantcode.github.io/tags/beginner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://anantcode.github.io/tags/markdown/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nextjs</title>
+      <link>https://anantcode.github.io/tags/nextjs/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/nextjs/</guid>
       <description></description>
     </item>
     
