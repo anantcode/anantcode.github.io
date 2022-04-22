@@ -12,7 +12,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Apr 2022 16:16:49 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/shell-scripts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bash Script to Switch Git Config in New Repo</title>
+      <title>Bash Script to switch Git Config(user name, user email, gpgsigning) in New Repo</title>
       <link>https://anantcode.github.io/posts/bash-script-to-switch-git-config-in-new-repo/</link>
       <pubDate>Fri, 22 Apr 2022 16:16:49 +0530</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Bash Script to Create New Post md File in Hugo</title>
+      <title>Bash Script to create new page (MD File) in Hugo</title>
       <link>https://anantcode.github.io/bash-new-hugo-post/</link>
       <pubDate>Fri, 22 Apr 2022 15:58:45 +0530</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Hugo: Batch script to deploy after cleaning the output public dir (static-site root)</title>
+      <title>Hugo: Batch script to deploy to GitHub after cleaning the output public dir (static-site root)</title>
       <link>https://anantcode.github.io/posts/bat-script-to-deploy-and-clean-static-site-root/</link>
       <pubDate>Fri, 22 Apr 2022 13:26:55 +0530</pubDate>
       

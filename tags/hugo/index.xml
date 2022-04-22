@@ -10,16 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 16:43:48 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Create Blog With Hugo</title>
-      <link>https://anantcode.github.io/posts/create-blog-with-hugo/</link>
-      <pubDate>Fri, 22 Apr 2022 16:43:48 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/posts/create-blog-with-hugo/</guid>
-      <description>Create static blog with Hugo.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 20 Apr 2022 17:05:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best way to add image in markdown file in VSCode - using VSCode plugin &#39;Paste Image&#39;</title>
       <link>https://anantcode.github.io/posts/6-simple-add-image-in-markdown-vscode-plugin/</link>
@@ -45,6 +36,15 @@
       
       <guid>https://anantcode.github.io/posts/3-add-image-in-hugo-markdown/</guid>
       <description>Add image in your blog post</description>
+    </item>
+    
+    <item>
+      <title>Create Blog With Hugo</title>
+      <link>https://anantcode.github.io/posts/create-blog-with-hugo/</link>
+      <pubDate>Fri, 15 Apr 2022 16:43:48 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/create-blog-with-hugo/</guid>
+      <description>Create static blog with Hugo.</description>
     </item>
     
   </channel>

@@ -29,5 +29,23 @@
       <description>Basically creating md file for new post</description>
     </item>
     
+    <item>
+      <title>How to add image to a Hugo blogpost</title>
+      <link>https://anantcode.github.io/posts/3-add-image-in-hugo-markdown/</link>
+      <pubDate>Sun, 17 Apr 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/3-add-image-in-hugo-markdown/</guid>
+      <description>Add image in your blog post</description>
+    </item>
+    
+    <item>
+      <title>Create Blog With Hugo</title>
+      <link>https://anantcode.github.io/posts/create-blog-with-hugo/</link>
+      <pubDate>Fri, 15 Apr 2022 16:43:48 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/create-blog-with-hugo/</guid>
+      <description>Create static blog with Hugo.</description>
+    </item>
+    
   </channel>
 </rss>

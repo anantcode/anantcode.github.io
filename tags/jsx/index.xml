@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 16:34:33 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/jsx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 16:34:33 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/jsx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enable Emmet for JSX in VSCode</title>
       <link>https://anantcode.github.io/posts/enable-emmet-in-jsx-for-vscode/</link>
-      <pubDate>Fri, 22 Apr 2022 16:34:33 +0530</pubDate>
+      <pubDate>Thu, 07 Apr 2022 16:34:33 +0530</pubDate>
       
       <guid>https://anantcode.github.io/posts/enable-emmet-in-jsx-for-vscode/</guid>
       <description>Get the convenience of Emmet in VSCode when working with JSX</description>
