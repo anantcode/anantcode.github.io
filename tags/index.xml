@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Anant Code</title>
-    <link>http://anancode.github.io/tags/</link>
+    <link>https://anantcode.github.io/tags/</link>
     <description>Recent content in Tags on Anant Code</description>
     <image>
-      <url>http://anancode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://anancode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 18:32:13 +0530</lastBuildDate><atom:link href="http://anancode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 18:32:13 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>resources</title>
-      <link>http://anancode.github.io/tags/resources/</link>
+      <link>https://anantcode.github.io/tags/resources/</link>
       <pubDate>Wed, 20 Apr 2022 18:32:13 +0530</pubDate>
       
-      <guid>http://anancode.github.io/tags/resources/</guid>
+      <guid>https://anantcode.github.io/tags/resources/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo-basics</title>
-      <link>http://anancode.github.io/tags/hugo-basics/</link>
+      <link>https://anantcode.github.io/tags/hugo-basics/</link>
       <pubDate>Wed, 20 Apr 2022 17:05:39 +0530</pubDate>
       
-      <guid>http://anancode.github.io/tags/hugo-basics/</guid>
+      <guid>https://anantcode.github.io/tags/hugo-basics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://anancode.github.io/tags/first/</link>
+      <link>https://anantcode.github.io/tags/first/</link>
       <pubDate>Wed, 20 Apr 2022 06:43:37 +0530</pubDate>
       
-      <guid>http://anancode.github.io/tags/first/</guid>
+      <guid>https://anantcode.github.io/tags/first/</guid>
       <description></description>
     </item>
     
