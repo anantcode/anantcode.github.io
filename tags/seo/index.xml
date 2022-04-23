@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>seo on Anant Code</title>
+    <link>https://anantcode.github.io/tags/seo/</link>
+    <description>Recent content in seo on Anant Code</description>
+    <image>
+      <url>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Oct 2021 17:51:19 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server Side Rendering(SSR) vs Client Side Rendering - for SEO</title>
+      <link>https://anantcode.github.io/posts/diff-bw-csr-and-ssr/</link>
+      <pubDate>Sat, 23 Oct 2021 17:51:19 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/diff-bw-csr-and-ssr/</guid>
+      <description>Why is SSR better for SEO co,pared to CSR, and is there a third option?</description>
+    </item>
+    
+  </channel>
+</rss>

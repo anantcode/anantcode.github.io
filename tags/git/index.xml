@@ -12,7 +12,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Apr 2022 16:16:49 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bash Script to switch Git Config(user name, user email, commit.gpgsign) in New Repo</title>
+      <title>Bash Script to switch Git Configs</title>
       <link>https://anantcode.github.io/posts/bash-script-to-switch-git-config-in-new-repo/</link>
       <pubDate>Fri, 22 Apr 2022 16:16:49 +0530</pubDate>
       
