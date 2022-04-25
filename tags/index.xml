@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 16:16:49 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 19:17:34 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first</title>
+      <link>https://anantcode.github.io/tags/first/</link>
+      <pubDate>Mon, 25 Apr 2022 19:17:34 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>git</title>
       <link>https://anantcode.github.io/tags/git/</link>
@@ -68,7 +77,7 @@
     <item>
       <title>markdown</title>
       <link>https://anantcode.github.io/tags/markdown/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://anantcode.github.io/tags/markdown/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>nextjs</title>
       <link>https://anantcode.github.io/tags/nextjs/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://anantcode.github.io/tags/nextjs/</guid>
       <description></description>

@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://anantcode.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://anantcode.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Blog with Next.js and Markdown - Part 2</title>
+      <link>https://anantcode.github.io/posts/publishing-nextjs-site-blog/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/publishing-nextjs-site-blog/</guid>
+      <description>In this article we cover deploying the blog site on Vercel</description>
+    </item>
+    
     <item>
       <title>Creating a Blog with Next.js and Markdown - Part 1</title>
       <link>https://anantcode.github.io/posts/2-create-blog-with-nextjs-markdown/</link>

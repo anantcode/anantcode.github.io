@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 16:16:49 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 19:17:34 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to kill all Chrome processes on Windows</title>
+      <link>https://anantcode.github.io/posts/kill-all-chrome-processes-win/</link>
+      <pubDate>Mon, 25 Apr 2022 19:17:34 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/kill-all-chrome-processes-win/</guid>
+      <description>A quick way to close Chrome in Windows</description>
+    </item>
+    
     <item>
       <title>Bash Script to switch Git Configs</title>
       <link>https://anantcode.github.io/posts/bash-script-to-switch-git-config-in-new-repo/</link>
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>Renaming Remote git Repo</title>
+      <title>Renaming remote git repo</title>
       <link>https://anantcode.github.io/posts/9-renaming-remote-git-repo/</link>
       <pubDate>Fri, 22 Apr 2022 11:46:51 +0530</pubDate>
       
@@ -117,6 +126,15 @@
       
       <guid>https://anantcode.github.io/posts/create-blog-with-hugo/</guid>
       <description>Create static blog with Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Blog with Next.js and Markdown - Part 2</title>
+      <link>https://anantcode.github.io/posts/publishing-nextjs-site-blog/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/publishing-nextjs-site-blog/</guid>
+      <description>In this article we cover deploying the blog site on Vercel</description>
     </item>
     
     <item>
