@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 19:17:34 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Apr 2022 08:02:11 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimum Safe Integer in JavaScript</title>
+      <link>https://anantcode.github.io/posts/2022-04-26-min-safe-integer-in-js/</link>
+      <pubDate>Tue, 26 Apr 2022 08:02:11 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-04-26-min-safe-integer-in-js/</guid>
+      <description>If you want the smallest possible Integer value in JS</description>
+    </item>
+    
     <item>
       <title>How to kill all Chrome processes on Windows</title>
       <link>https://anantcode.github.io/posts/kill-all-chrome-processes-win/</link>

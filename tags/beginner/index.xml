@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 06:43:37 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 19:17:34 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to kill all Chrome processes on Windows</title>
+      <link>https://anantcode.github.io/posts/kill-all-chrome-processes-win/</link>
+      <pubDate>Mon, 25 Apr 2022 19:17:34 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/kill-all-chrome-processes-win/</guid>
+      <description>A quick way to close Chrome in Windows</description>
+    </item>
+    
     <item>
       <title>How to Write Multiline Text in YML File</title>
       <link>https://anantcode.github.io/posts/4-write-multiline-text-in-yml-file/</link>

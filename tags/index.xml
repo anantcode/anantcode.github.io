@@ -10,13 +10,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 19:17:34 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Apr 2022 08:02:11 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>https://anantcode.github.io/tags/first/</link>
+      <title>js-basics</title>
+      <link>https://anantcode.github.io/tags/js-basics/</link>
+      <pubDate>Tue, 26 Apr 2022 08:02:11 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/js-basics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beginner</title>
+      <link>https://anantcode.github.io/tags/beginner/</link>
       <pubDate>Mon, 25 Apr 2022 19:17:34 +0530</pubDate>
       
-      <guid>https://anantcode.github.io/tags/first/</guid>
+      <guid>https://anantcode.github.io/tags/beginner/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Wed, 20 Apr 2022 17:05:39 +0530</pubDate>
       
       <guid>https://anantcode.github.io/tags/hugo-basics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>beginner</title>
-      <link>https://anantcode.github.io/tags/beginner/</link>
-      <pubDate>Wed, 20 Apr 2022 06:43:37 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/tags/beginner/</guid>
       <description></description>
     </item>
     
