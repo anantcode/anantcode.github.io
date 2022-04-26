@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 19:17:34 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Apr 2022 22:06:01 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Contribution are not counted due to missing . in `commit user.email` and email defined in GitHub</title>
+      <link>https://anantcode.github.io/posts/2022-04-26-github-contribution-not-counted-due-to-dot-in-email/</link>
+      <pubDate>Tue, 26 Apr 2022 22:06:01 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-04-26-github-contribution-not-counted-due-to-dot-in-email/</guid>
+      <description>Found the reason why GitHub did not count my contributions!</description>
+    </item>
+    
+    <item>
+      <title>Save Your Images to imgur and use URL in blog</title>
+      <link>https://anantcode.github.io/posts/2022-04-26-save-your-images-to-imgur/</link>
+      <pubDate>Tue, 26 Apr 2022 20:06:07 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-04-26-save-your-images-to-imgur/</guid>
+      <description>Add images to your blog post by your own cloud hosted source URL</description>
+    </item>
+    
     <item>
       <title>How to kill all Chrome processes on Windows</title>
       <link>https://anantcode.github.io/posts/kill-all-chrome-processes-win/</link>
