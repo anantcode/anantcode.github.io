@@ -12,7 +12,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Apr 2022 22:06:01 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GitHub Contribution are not counted due to missing . in `config user.email` and email defined in GitHub</title>
+      <title>GitHub Contribution not counted due to missing &#39;.&#39; in commit email ID</title>
       <link>https://anantcode.github.io/posts/2022-04-26-github-contribution-not-counted-due-to-dot-in-email/</link>
       <pubDate>Tue, 26 Apr 2022 22:06:01 +0530</pubDate>
       

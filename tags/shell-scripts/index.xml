@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Hugo: Batch script to deploy to GitHub after cleaning the output public dir (static-site root)</title>
+      <title>Hugo: Batch script to deploy to GitHub after cleaning the output public dir (static-site&#39;s root)</title>
       <link>https://anantcode.github.io/posts/bat-script-to-deploy-and-clean-static-site-root/</link>
       <pubDate>Fri, 22 Apr 2022 13:26:55 +0530</pubDate>
       

@@ -12,7 +12,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Apr 2022 22:06:01 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GitHub Contribution are not counted due to missing . in `config user.email` and email defined in GitHub</title>
+      <title>GitHub Contribution not counted due to missing &#39;.&#39; in commit email ID</title>
       <link>https://anantcode.github.io/posts/2022-04-26-github-contribution-not-counted-due-to-dot-in-email/</link>
       <pubDate>Tue, 26 Apr 2022 22:06:01 +0530</pubDate>
       
@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>Hugo: Batch script to deploy to GitHub after cleaning the output public dir (static-site root)</title>
+      <title>Hugo: Batch script to deploy to GitHub after cleaning the output public dir (static-site&#39;s root)</title>
       <link>https://anantcode.github.io/posts/bat-script-to-deploy-and-clean-static-site-root/</link>
       <pubDate>Fri, 22 Apr 2022 13:26:55 +0530</pubDate>
       
@@ -197,7 +197,7 @@
       <pubDate>Sat, 23 Oct 2021 17:51:19 +0530</pubDate>
       
       <guid>https://anantcode.github.io/posts/diff-bw-csr-and-ssr/</guid>
-      <description>Why is SSR better for SEO compared to CSR, and is there a third option?</description>
+      <description>Why is Server Side Rendering better for Search Engine Optimization(better page ranking) compared to Client side rendering, and is there a third option?</description>
     </item>
     
     
