@@ -10,14 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2022 22:06:01 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 06:19:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GitHub Contribution not counted due to missing &#39;.&#39; in commit email ID</title>
+      <title>Peacock VSCode Extension - working with multiple VSCode workspaces made easy</title>
+      <link>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</link>
+      <pubDate>Thu, 28 Apr 2022 06:19:39 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</guid>
+      <description>Work on multiple VSCode workspaces like a boss.</description>
+    </item>
+    
+    <item>
+      <title>GitHub Contribution not counted!</title>
       <link>https://anantcode.github.io/posts/2022-04-26-github-contribution-not-counted-due-to-dot-in-email/</link>
       <pubDate>Tue, 26 Apr 2022 22:06:01 +0530</pubDate>
       
       <guid>https://anantcode.github.io/posts/2022-04-26-github-contribution-not-counted-due-to-dot-in-email/</guid>
-      <description>Found the reason why GitHub did not count my contributions!</description>
+      <description>Found the reason why GitHub did not count my commits as contributions!</description>
     </item>
     
     <item>
