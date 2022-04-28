@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2022 22:06:01 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 06:19:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peacock VSCode Extension</title>
+      <link>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</link>
+      <pubDate>Thu, 28 Apr 2022 06:19:39 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</guid>
+      <description>Work with multiple open VSCode windows like a boss.</description>
+    </item>
+    
     <item>
       <title>GitHub Contribution not counted due to missing &#39;.&#39; in commit email ID</title>
       <link>https://anantcode.github.io/posts/2022-04-26-github-contribution-not-counted-due-to-dot-in-email/</link>
