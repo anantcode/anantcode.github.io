@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 06:19:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 15:47:12 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where are Global npm packages installed?</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-where-are-global-npm-packages-installed/</link>
+      <pubDate>Sun, 01 May 2022 15:47:12 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-where-are-global-npm-packages-installed/</guid>
+      <description>Installed some packages using `npm install -g` and wondering were they are actually installed in your machine?</description>
+    </item>
+    
+    <item>
+      <title>How Web Browsers Work Part - 1</title>
+      <link>https://anantcode.github.io/posts/2022-04-30-how-web-browsers-work-1/</link>
+      <pubDate>Sat, 30 Apr 2022 13:57:55 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-04-30-how-web-browsers-work-1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Peacock VSCode Extension - working with multiple VSCode workspaces made easy</title>
       <link>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</link>
