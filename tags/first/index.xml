@@ -10,14 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2022 15:47:12 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 20:55:47 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Where are Global npm packages installed?</title>
-      <link>https://anantcode.github.io/posts/2022-05-01-where-are-global-npm-packages-installed/</link>
-      <pubDate>Sun, 01 May 2022 15:47:12 +0530</pubDate>
+      <title>2022 05 01 Tried Scraping Twitter</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-tried-scraping-twitter/</link>
+      <pubDate>Sun, 01 May 2022 20:55:47 +0530</pubDate>
       
-      <guid>https://anantcode.github.io/posts/2022-05-01-where-are-global-npm-packages-installed/</guid>
-      <description>Installed some packages using `npm install -g` and wondering were they are actually installed in your machine?</description>
+      <guid>https://anantcode.github.io/posts/2022-05-01-tried-scraping-twitter/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>2022 05 01 Scraping Using Cheerio</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-scraping-using-cheerio/</link>
+      <pubDate>Sun, 01 May 2022 20:03:38 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-scraping-using-cheerio/</guid>
+      <description>Desc Text.</description>
     </item>
     
     <item>

@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://anantcode.github.io/posts/2022-05-01-tried-scraping-twitter/</loc>
+    <lastmod>2022-05-01T20:55:47+05:30</lastmod>
+  </url><url>
     <loc>https://anantcode.github.io/</loc>
-    <lastmod>2022-05-01T15:47:12+05:30</lastmod>
+    <lastmod>2022-05-01T20:55:47+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/first/</loc>
-    <lastmod>2022-05-01T15:47:12+05:30</lastmod>
+    <lastmod>2022-05-01T20:55:47+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/</loc>
-    <lastmod>2022-05-01T15:47:12+05:30</lastmod>
+    <lastmod>2022-05-01T20:55:47+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/</loc>
+    <lastmod>2022-05-01T20:55:47+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2022-05-01-scraping-using-cheerio/</loc>
+    <lastmod>2022-05-01T20:03:38+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/beginner/</loc>
+    <lastmod>2022-05-01T19:23:52+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2022-05-01-nodemon-vs-liveserver/</loc>
+    <lastmod>2022-05-01T19:23:52+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2022-05-01-path-environment-variable-windows/</loc>
+    <lastmod>2022-05-01T18:42:12+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/windows/</loc>
+    <lastmod>2022-05-01T18:42:12+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2022-05-01-run-sh-from-anywhere/</loc>
+    <lastmod>2022-05-01T18:41:18+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/shell-script/</loc>
+    <lastmod>2022-05-01T18:41:18+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/npm/</loc>
     <lastmod>2022-05-01T15:47:12+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-01-where-are-global-npm-packages-installed/</loc>
@@ -19,9 +46,6 @@
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-04-30-how-web-browsers-work-1/</loc>
     <lastmod>2022-04-30T13:57:55+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/beginner/</loc>
-    <lastmod>2022-04-28T06:19:39+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</loc>
     <lastmod>2022-04-28T06:19:39+05:30</lastmod>

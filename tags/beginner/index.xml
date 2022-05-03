@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 06:19:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 19:23:52 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodemon vs Live Server</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-nodemon-vs-liveserver/</link>
+      <pubDate>Sun, 01 May 2022 19:23:52 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-nodemon-vs-liveserver/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Path environment variable in Windows</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-path-environment-variable-windows/</link>
+      <pubDate>Sun, 01 May 2022 18:42:12 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-path-environment-variable-windows/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Where are Global npm packages installed?</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-where-are-global-npm-packages-installed/</link>
+      <pubDate>Sun, 01 May 2022 15:47:12 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-where-are-global-npm-packages-installed/</guid>
+      <description>Installed some packages using `npm install -g` and wondering were they are actually installed in your machine?</description>
+    </item>
+    
     <item>
       <title>Peacock VSCode Extension - working with multiple VSCode workspaces made easy</title>
       <link>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</link>

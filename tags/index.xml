@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2022 15:47:12 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 20:55:47 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
       <link>https://anantcode.github.io/tags/first/</link>
-      <pubDate>Sun, 01 May 2022 15:47:12 +0530</pubDate>
+      <pubDate>Sun, 01 May 2022 20:55:47 +0530</pubDate>
       
       <guid>https://anantcode.github.io/tags/first/</guid>
       <description></description>
@@ -23,9 +23,36 @@
     <item>
       <title>beginner</title>
       <link>https://anantcode.github.io/tags/beginner/</link>
-      <pubDate>Thu, 28 Apr 2022 06:19:39 +0530</pubDate>
+      <pubDate>Sun, 01 May 2022 19:23:52 +0530</pubDate>
       
       <guid>https://anantcode.github.io/tags/beginner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://anantcode.github.io/tags/windows/</link>
+      <pubDate>Sun, 01 May 2022 18:42:12 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell-script</title>
+      <link>https://anantcode.github.io/tags/shell-script/</link>
+      <pubDate>Sun, 01 May 2022 18:41:18 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/shell-script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>npm</title>
+      <link>https://anantcode.github.io/tags/npm/</link>
+      <pubDate>Sun, 01 May 2022 15:47:12 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/npm/</guid>
       <description></description>
     </item>
     

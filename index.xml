@@ -10,7 +10,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2022 15:47:12 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 20:55:47 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 05 01 Tried Scraping Twitter</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-tried-scraping-twitter/</link>
+      <pubDate>Sun, 01 May 2022 20:55:47 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-tried-scraping-twitter/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>2022 05 01 Scraping Using Cheerio</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-scraping-using-cheerio/</link>
+      <pubDate>Sun, 01 May 2022 20:03:38 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-scraping-using-cheerio/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Nodemon vs Live Server</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-nodemon-vs-liveserver/</link>
+      <pubDate>Sun, 01 May 2022 19:23:52 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-nodemon-vs-liveserver/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Path environment variable in Windows</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-path-environment-variable-windows/</link>
+      <pubDate>Sun, 01 May 2022 18:42:12 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-path-environment-variable-windows/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Run Shell script from anywhere on Windows</title>
+      <link>https://anantcode.github.io/posts/2022-05-01-run-sh-from-anywhere/</link>
+      <pubDate>Sun, 01 May 2022 18:41:18 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-01-run-sh-from-anywhere/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Where are Global npm packages installed?</title>
       <link>https://anantcode.github.io/posts/2022-05-01-where-are-global-npm-packages-installed/</link>
