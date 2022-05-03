@@ -10,16 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2022 20:55:47 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>first</title>
-      <link>https://anantcode.github.io/tags/first/</link>
-      <pubDate>Sun, 01 May 2022 20:55:47 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/tags/first/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 01 May 2022 19:23:52 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>beginner</title>
       <link>https://anantcode.github.io/tags/beginner/</link>
@@ -53,6 +44,15 @@
       <pubDate>Sun, 01 May 2022 15:47:12 +0530</pubDate>
       
       <guid>https://anantcode.github.io/tags/npm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://anantcode.github.io/tags/first/</link>
+      <pubDate>Sat, 30 Apr 2022 13:57:55 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/first/</guid>
       <description></description>
     </item>
     

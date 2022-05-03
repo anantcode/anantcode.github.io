@@ -10,25 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2022 20:55:47 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2022 05 01 Tried Scraping Twitter</title>
-      <link>https://anantcode.github.io/posts/2022-05-01-tried-scraping-twitter/</link>
-      <pubDate>Sun, 01 May 2022 20:55:47 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/posts/2022-05-01-tried-scraping-twitter/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>2022 05 01 Scraping Using Cheerio</title>
-      <link>https://anantcode.github.io/posts/2022-05-01-scraping-using-cheerio/</link>
-      <pubDate>Sun, 01 May 2022 20:03:38 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/posts/2022-05-01-scraping-using-cheerio/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 30 Apr 2022 13:57:55 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Web Browsers Work Part - 1</title>
       <link>https://anantcode.github.io/posts/2022-04-30-how-web-browsers-work-1/</link>
