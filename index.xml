@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2022 19:23:52 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 16:24:48 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to verifiy Hugo Papermod theme site on Google Search Console</title>
+      <link>https://anantcode.github.io/posts/2022-05-03-google-search-console-verification-with-papermod-hugo/</link>
+      <pubDate>Tue, 03 May 2022 16:24:48 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-03-google-search-console-verification-with-papermod-hugo/</guid>
+      <description>Want to manually add the PaperMod site to Google Search Console by verification? Read on.</description>
+    </item>
+    
     <item>
       <title>Nodemon vs Live Server</title>
       <link>https://anantcode.github.io/posts/2022-05-01-nodemon-vs-liveserver/</link>

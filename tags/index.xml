@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2022 19:23:52 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 16:24:48 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://anantcode.github.io/tags/hugo/</link>
+      <pubDate>Tue, 03 May 2022 16:24:48 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>https://anantcode.github.io/tags/seo/</link>
+      <pubDate>Tue, 03 May 2022 16:24:48 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/seo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>beginner</title>
       <link>https://anantcode.github.io/tags/beginner/</link>
@@ -102,15 +120,6 @@
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://anantcode.github.io/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2022 17:05:39 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hugo-basics</title>
       <link>https://anantcode.github.io/tags/hugo-basics/</link>
       <pubDate>Wed, 20 Apr 2022 17:05:39 +0530</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Sat, 23 Oct 2021 17:51:19 +0530</pubDate>
       
       <guid>https://anantcode.github.io/tags/client-side-rendering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seo</title>
-      <link>https://anantcode.github.io/tags/seo/</link>
-      <pubDate>Sat, 23 Oct 2021 17:51:19 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/tags/seo/</guid>
       <description></description>
     </item>
     

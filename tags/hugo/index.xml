@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 17:05:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 16:24:48 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to verifiy Hugo Papermod theme site on Google Search Console</title>
+      <link>https://anantcode.github.io/posts/2022-05-03-google-search-console-verification-with-papermod-hugo/</link>
+      <pubDate>Tue, 03 May 2022 16:24:48 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-03-google-search-console-verification-with-papermod-hugo/</guid>
+      <description>Want to manually add the PaperMod site to Google Search Console by verification? Read on.</description>
+    </item>
+    
     <item>
       <title>Best way to add image in markdown file in VSCode - using VSCode plugin &#39;Paste Image&#39;</title>
       <link>https://anantcode.github.io/posts/6-simple-add-image-in-markdown-vscode-plugin/</link>
