@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 May 2022 16:24:48 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 20:47:52 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Too many chrome Tabs? Use this</title>
+      <link>https://anantcode.github.io/posts/2022-05-04-too-many-chrome-tabs/</link>
+      <pubDate>Wed, 04 May 2022 20:47:52 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-04-too-many-chrome-tabs/</guid>
+      <description>If you have lots of tabs open in chrome, use this to get to desired tab faster.</description>
+    </item>
+    
     <item>
       <title>How to verifiy Hugo Papermod theme site on Google Search Console</title>
       <link>https://anantcode.github.io/posts/2022-05-03-google-search-console-verification-with-papermod-hugo/</link>
