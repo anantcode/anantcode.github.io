@@ -10,13 +10,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 May 2022 20:47:52 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 May 2022 09:21:18 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100DaysOfCode</title>
+      <link>https://anantcode.github.io/tags/100daysofcode/</link>
+      <pubDate>Sun, 08 May 2022 09:21:18 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/100daysofcode/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>beginner</title>
       <link>https://anantcode.github.io/tags/beginner/</link>
-      <pubDate>Wed, 04 May 2022 20:47:52 +0530</pubDate>
+      <pubDate>Thu, 05 May 2022 20:21:56 +0530</pubDate>
       
       <guid>https://anantcode.github.io/tags/beginner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heroku</title>
+      <link>https://anantcode.github.io/tags/heroku/</link>
+      <pubDate>Thu, 05 May 2022 20:21:56 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/heroku/</guid>
       <description></description>
     </item>
     

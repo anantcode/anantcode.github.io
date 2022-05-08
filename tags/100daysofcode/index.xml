@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>100DaysOfCode on Anant Code</title>
+    <link>https://anantcode.github.io/tags/100daysofcode/</link>
+    <description>Recent content in 100DaysOfCode on Anant Code</description>
+    <image>
+      <url>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 May 2022 09:21:18 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/100daysofcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 2 #100DaysOfCode</title>
+      <link>https://anantcode.github.io/posts/2022-05-08-day2-100doc/</link>
+      <pubDate>Sun, 08 May 2022 09:21:18 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-08-day2-100doc/</guid>
+      <description>Day 2 Key Learnings:
+ pages folder name is reserved in nextjs.  Others like components is not reserved.   How props are passed to a component. Utilize _app.js for anything that affects all pages like Layout - wrap with Layout component, Navigation (with links) Using Programmatic (Imperative) Navigation  The usual rule of a Reach Hook:  Only use directly only at the root level of component function. (e.</description>
+    </item>
+    
+  </channel>
+</rss>

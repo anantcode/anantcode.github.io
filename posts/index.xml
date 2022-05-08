@@ -10,7 +10,26 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 May 2022 20:47:52 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 May 2022 09:21:18 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 2 #100DaysOfCode</title>
+      <link>https://anantcode.github.io/posts/2022-05-08-day2-100doc/</link>
+      <pubDate>Sun, 08 May 2022 09:21:18 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-08-day2-100doc/</guid>
+      <description>Day 2 Key Learnings:
+ pages folder name is reserved in nextjs.  Others like components is not reserved.   How props are passed to a component. Utilize _app.js for anything that affects all pages like Layout - wrap with Layout component, Navigation (with links) Using Programmatic (Imperative) Navigation  The usual rule of a Reach Hook:  Only use directly only at the root level of component function. (e.</description>
+    </item>
+    
+    <item>
+      <title>Deploy to Heroku</title>
+      <link>https://anantcode.github.io/posts/2022-05-05-deploy-to-heroku/</link>
+      <pubDate>Thu, 05 May 2022 20:21:56 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-05-deploy-to-heroku/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Too many Chrome Tabs? Use this to find your tab</title>
       <link>https://anantcode.github.io/posts/2022-05-04-too-many-chrome-tabs/</link>
