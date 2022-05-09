@@ -10,7 +10,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 May 2022 09:21:18 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 06:10:59 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day3 #100DaysOfCode</title>
+      <link>https://anantcode.github.io/posts/2022-05-09-day3-100doc/</link>
+      <pubDate>Mon, 09 May 2022 06:10:59 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-09-day3-100doc/</guid>
+      <description>Replace mock data with a real datasource:
+Send HTTP request once the page has loaded - we would typically use useEffect() Runs whenever component is frist rendered, never after. Do: fetch your data inside it.
+Manage state for the component - use useState() hook
+const [loadedNotes, setLoadedNotes] = useState([]);  useEffect(()=&amp;gt; {  //send http request and fetch data.  //set on component  setLoadedNotes(LOADED_NOTES); }, []); Full code (with function component):</description>
+    </item>
+    
     <item>
       <title>Day 2 #100DaysOfCode</title>
       <link>https://anantcode.github.io/posts/2022-05-08-day2-100doc/</link>
@@ -18,7 +30,7 @@
       
       <guid>https://anantcode.github.io/posts/2022-05-08-day2-100doc/</guid>
       <description>Day 2 Key Learnings:
- pages folder name is reserved in nextjs.  Others like components is not reserved.   How props are passed to a component. Utilize _app.js for anything that affects all pages like Layout - wrap with Layout component, Navigation (with links) Using Programmatic (Imperative) Navigation  The usual rule of a Reach Hook:  Only use directly only at the root level of component function. (e.</description>
+ pages folder name is reserved in nextjs.  Others like components is not reserved.   How props are passed to a component. Utilize _app.js for anything that affects all pages like Layout - wrap with Layout component, Navigation (with links) etc Using Programmatic (Imperative) Navigation  The usual rule of a Reach Hook:  Only use directly only at the root level of component function.</description>
     </item>
     
     <item>
