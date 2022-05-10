@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 09:17:37 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 09:27:41 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;Finally&#39; for forEach - Callback After All ForEach are done running</title>
+      <link>https://anantcode.github.io/posts/2022-05-10-callback-after-all-foreach-js/</link>
+      <pubDate>Tue, 10 May 2022 09:27:41 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-10-callback-after-all-foreach-js/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Node: User Input from Terminal</title>
+      <link>https://anantcode.github.io/posts/2022-05-10-node-user-input-from-terminal/</link>
+      <pubDate>Tue, 10 May 2022 09:22:28 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-10-node-user-input-from-terminal/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Node: Change the color of your console.log</title>
       <link>https://anantcode.github.io/posts/2022-05-10-node-change-console-log-color/</link>
