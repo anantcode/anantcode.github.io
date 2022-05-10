@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://anantcode.github.io/</loc>
-    <lastmod>2022-05-10T06:29:49+05:30</lastmod>
+    <lastmod>2022-05-10T09:17:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/beginner/</loc>
+    <lastmod>2022-05-10T09:17:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2022-05-10-node-change-console-log-color/</loc>
+    <lastmod>2022-05-10T09:17:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/</loc>
+    <lastmod>2022-05-10T09:17:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/</loc>
+    <lastmod>2022-05-10T09:17:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2022-05-10-node-fs/</loc>
+    <lastmod>2022-05-10T09:03:16+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-10-day4-100doc/</loc>
     <lastmod>2022-05-10T06:29:49+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/first/</loc>
-    <lastmod>2022-05-10T06:29:49+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/posts/</loc>
-    <lastmod>2022-05-10T06:29:49+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/</loc>
     <lastmod>2022-05-10T06:29:49+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/100daysofcode/</loc>
@@ -25,9 +34,6 @@
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-08-day2-100doc/</loc>
     <lastmod>2022-05-08T09:21:18+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/beginner/</loc>
-    <lastmod>2022-05-05T20:21:56+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-05-deploy-to-heroku/</loc>
     <lastmod>2022-05-05T20:21:56+05:30</lastmod>
