@@ -10,7 +10,30 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 06:10:59 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/100daysofcode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 20:18:35 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/100daysofcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day5 #100DaysOfCode</title>
+      <link>https://anantcode.github.io/posts/2022-05-10-day5-100doc/</link>
+      <pubDate>Tue, 10 May 2022 20:18:35 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-10-day5-100doc/</guid>
+      <description>Day 5 Key learnings:
+  React hooks like useRouter cant be used in GSP (getStaticProps) - it can only be used in React function component.
+ So can&amp;rsquo;t use useRouter to get the slug (like ID of note/post). But we dont need it - we have context param in GSP.    In GSP the context will not hold req and res - it has params:
+ the params object has  key = the thing between [] in the filename.</description>
+    </item>
+    
+    <item>
+      <title>Day4 #100DaysOfCode</title>
+      <link>https://anantcode.github.io/posts/2022-05-10-day4-100doc/</link>
+      <pubDate>Tue, 10 May 2022 06:29:49 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-10-day4-100doc/</guid>
+      <description>Build $ npm run build generates static pages.
+Terminal:
+Page Size First Load JS┌ ● / 724 B 78.2 kB├ └ css/233a1356c16eb650.css 416 B├ /_app 0 B 77.5 kB├ ○ /[noteId] 484 B 78 kB├ └ css/f0a2be9a550dc29f.css 79 B├ ○ /404 193 B 77.7 kB└ ○ /new-note 749 B 78.2 kB└ css/29ba8ee8d48d1f49.css 359 B+ First Load JS shared by all 77.5 kB├ chunks/framework-1f10003e17636e37.</description>
+    </item>
+    
     <item>
       <title>Day3 #100DaysOfCode</title>
       <link>https://anantcode.github.io/posts/2022-05-09-day3-100doc/</link>
