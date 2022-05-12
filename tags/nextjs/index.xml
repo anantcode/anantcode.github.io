@@ -10,7 +10,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 20:18:35 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/nextjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 08:20:38 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/nextjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day6 #100DaysOfCode</title>
+      <link>https://anantcode.github.io/posts/2022-05-11-day6-100doc/</link>
+      <pubDate>Wed, 11 May 2022 08:20:38 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-11-day6-100doc/</guid>
+      <description>Day 6 Using mongoDB in the nextjs app.
+So far covered:
+ getStaticProps, and getStaticPaths and getServerSideProps They allow us to fetch data for pre-rendering those pages, So that we pre-render the pages with the data, instead of without the data they might need.  Upto this point, we&amp;rsquo;re only working with dummy data though (not actually fetching from anywhere) - it is actually hard-coded data
+We do have this Add New Meetup page here, which would allow users to enter data for a new meetup.</description>
+    </item>
+    
     <item>
       <title>Day5 #100DaysOfCode</title>
       <link>https://anantcode.github.io/posts/2022-05-10-day5-100doc/</link>
