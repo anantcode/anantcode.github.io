@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anantcode.github.io/tags/100daysofcode/</loc>
-    <lastmod>2022-05-11T08:20:38+05:30</lastmod>
-  </url><url>
     <loc>https://anantcode.github.io/</loc>
+    <lastmod>2022-05-13T12:30:58+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2022-05-14-day7-100doc/</loc>
+    <lastmod>2022-05-13T12:30:58+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/first/</loc>
+    <lastmod>2022-05-13T12:30:58+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/</loc>
+    <lastmod>2022-05-13T12:30:58+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/</loc>
+    <lastmod>2022-05-13T12:30:58+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/100daysofcode/</loc>
     <lastmod>2022-05-11T08:20:38+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/beginner/</loc>
@@ -15,12 +27,6 @@
     <lastmod>2022-05-11T08:20:38+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/nextjs/</loc>
-    <lastmod>2022-05-11T08:20:38+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/posts/</loc>
-    <lastmod>2022-05-11T08:20:38+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/</loc>
     <lastmod>2022-05-11T08:20:38+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-10-day5-100doc/</loc>
