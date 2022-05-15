@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vscode on Anant Code</title>
+    <link>https://anantcode.github.io/tags/vscode/</link>
+    <description>Recent content in vscode on Anant Code</description>
+    <image>
+      <url>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Apr 2022 06:19:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peacock VSCode Extension - working with multiple VSCode workspaces made easy</title>
+      <link>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</link>
+      <pubDate>Thu, 28 Apr 2022 06:19:39 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-04-28-peacock-vscode-extension/</guid>
+      <description>Work on multiple VSCode workspaces like a boss.</description>
+    </item>
+    
+    <item>
+      <title>Enable Emmet for JSX in VSCode</title>
+      <link>https://anantcode.github.io/posts/enable-emmet-in-jsx-for-vscode/</link>
+      <pubDate>Thu, 07 Apr 2022 16:34:33 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/enable-emmet-in-jsx-for-vscode/</guid>
+      <description>Get the convenience of Emmet in VSCode when working with JSX</description>
+    </item>
+    
+  </channel>
+</rss>
