@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://anantcode.github.io/posts/2022-05-16-mongodb/</loc>
+    <lastmod>2022-05-16T21:03:37+05:30</lastmod>
+  </url><url>
     <loc>https://anantcode.github.io/</loc>
-    <lastmod>2022-05-16T20:19:38+05:30</lastmod>
+    <lastmod>2022-05-16T21:03:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/beginners/</loc>
+    <lastmod>2022-05-16T21:03:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/mongodb/</loc>
+    <lastmod>2022-05-16T21:03:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/</loc>
+    <lastmod>2022-05-16T21:03:37+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/</loc>
+    <lastmod>2022-05-16T21:03:37+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-16-day9-100doc/</loc>
     <lastmod>2022-05-16T20:19:38+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/first/</loc>
-    <lastmod>2022-05-16T20:19:38+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/posts/</loc>
-    <lastmod>2022-05-16T20:19:38+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/</loc>
     <lastmod>2022-05-16T20:19:38+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/100daysofcode/</loc>
@@ -24,9 +33,6 @@
     <lastmod>2022-05-14T12:31:18+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-14-day8-100doc/</loc>
-    <lastmod>2022-05-14T12:31:18+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/mongodb/</loc>
     <lastmod>2022-05-14T12:31:18+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/nextjs/</loc>

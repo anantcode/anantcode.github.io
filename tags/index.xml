@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 May 2022 20:19:38 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 21:03:37 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beginners</title>
+      <link>https://anantcode.github.io/tags/beginners/</link>
+      <pubDate>Mon, 16 May 2022 21:03:37 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/beginners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongoDB</title>
+      <link>https://anantcode.github.io/tags/mongodb/</link>
+      <pubDate>Mon, 16 May 2022 21:03:37 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>first</title>
       <link>https://anantcode.github.io/tags/first/</link>
@@ -35,15 +53,6 @@
       <pubDate>Sat, 14 May 2022 12:31:18 +0530</pubDate>
       
       <guid>https://anantcode.github.io/tags/beginner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mongoDB</title>
-      <link>https://anantcode.github.io/tags/mongodb/</link>
-      <pubDate>Sat, 14 May 2022 12:31:18 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/tags/mongodb/</guid>
       <description></description>
     </item>
     
