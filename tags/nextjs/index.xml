@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 May 2022 12:31:18 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/nextjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 21:57:09 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/nextjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Impressions of NextJS Over React</title>
+      <link>https://anantcode.github.io/posts/2022-05-16-my-first-impressions-of-next-js-over-react/</link>
+      <pubDate>Mon, 16 May 2022 21:57:09 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-16-my-first-impressions-of-next-js-over-react/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Day8 #100DaysOfCode</title>
       <link>https://anantcode.github.io/posts/2022-05-14-day8-100doc/</link>

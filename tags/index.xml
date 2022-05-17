@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 May 2022 21:03:37 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 21:57:09 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nextjs</title>
+      <link>https://anantcode.github.io/tags/nextjs/</link>
+      <pubDate>Mon, 16 May 2022 21:57:09 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reactjs</title>
+      <link>https://anantcode.github.io/tags/reactjs/</link>
+      <pubDate>Mon, 16 May 2022 21:57:09 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>beginners</title>
       <link>https://anantcode.github.io/tags/beginners/</link>
@@ -53,15 +71,6 @@
       <pubDate>Sat, 14 May 2022 12:31:18 +0530</pubDate>
       
       <guid>https://anantcode.github.io/tags/beginner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nextjs</title>
-      <link>https://anantcode.github.io/tags/nextjs/</link>
-      <pubDate>Sat, 14 May 2022 12:31:18 +0530</pubDate>
-      
-      <guid>https://anantcode.github.io/tags/nextjs/</guid>
       <description></description>
     </item>
     
