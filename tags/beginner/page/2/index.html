@@ -5,17 +5,7 @@ const prompt = require('prompt-sync')(); const name = prompt('What is your name?
 const fs = require('fs'); Append to a file (if file doesnt exist, create it) Useful when need to log to a file.
 fs.appendFile('message.txt', 'data to append', function (err) { if (err) throw err; console.log('Saved!'); }); Write a file const fs = require('fs'); fs.writeFile("/tmp/test", "Hey there!", function(err) { if(err) { return console.log(err); } console.log("The file was saved!"); }); // Or fs....</p></section><footer class=entry-footer><span title="2022-05-10 09:03:16 +0530 IST">May 10, 2022</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Anant</footer><a class=entry-link aria-label="post link to Node: fs common uses" href=https://anantcode.github.io/posts/2022-05-10-node-fs/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://anantcode.github.io/%3Cimage%20path/url%3E alt></figure><header class=entry-header><h2>Day4 #100DaysOfCode</h2></header><section class=entry-content><p>Build $ npm run build generates static pages.
 Terminal:
-Page Size First Load JS
-┌ ● / 724 B 78.2 kB
-├ └ css/233a1356c16eb650.css 416 B
-├ /_app 0 B 77.5 kB
-├ ○ /[noteId] 484 B 78 kB
-├ └ css/f0a2be9a550dc29f.css 79 B
-├ ○ /404 193 B 77.7 kB
-└ ○ /new-note 749 B 78.2 kB
-└ css/29ba8ee8d48d1f49.css 359 B
-+ First Load JS shared by all 77.5 kB
-├ chunks/framework-1f10003e17636e37....</p></section><footer class=entry-footer><span title="2022-05-10 06:29:49 +0530 IST">May 10, 2022</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Anant</footer><a class=entry-link aria-label="post link to Day4 #100DaysOfCode" href=https://anantcode.github.io/posts/2022-05-10-day4-100doc/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://anantcode.github.io/%3Cimage%20path/url%3E alt></figure><header class=entry-header><h2>Day3 #100DaysOfCode</h2></header><section class=entry-content><p>Replace mock data with a real datasource:
+Page Size First Load JS ┌ ● / 724 B 78.2 kB ├ └ css/233a1356c16eb650.css 416 B ├ /_app 0 B 77.5 kB ├ ○ /[noteId] 484 B 78 kB ├ └ css/f0a2be9a550dc29f.css 79 B ├ ○ /404 193 B 77.7 kB └ ○ /new-note 749 B 78.2 kB └ css/29ba8ee8d48d1f49.css 359 B + First Load JS shared by all 77.5 kB ├ chunks/framework-1f10003e17636e37....</p></section><footer class=entry-footer><span title="2022-05-10 06:29:49 +0530 IST">May 10, 2022</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Anant</footer><a class=entry-link aria-label="post link to Day4 #100DaysOfCode" href=https://anantcode.github.io/posts/2022-05-10-day4-100doc/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://anantcode.github.io/%3Cimage%20path/url%3E alt></figure><header class=entry-header><h2>Day3 #100DaysOfCode</h2></header><section class=entry-content><p>Replace mock data with a real datasource:
 Send HTTP request once the page has loaded - we would typically use useEffect() Runs whenever component is frist rendered, never after. Do: fetch your data inside it.
 Manage state for the component - use useState() hook
 const [loadedNotes, setLoadedNotes] = useState([]); useEffect(()=> { //send http request and fetch data. //set on component setLoadedNotes(LOADED_NOTES); }, []); Full code (with function component):...</p></section><footer class=entry-footer><span title="2022-05-09 06:10:59 +0530 IST">May 9, 2022</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Anant</footer><a class=entry-link aria-label="post link to Day3 #100DaysOfCode" href=https://anantcode.github.io/posts/2022-05-09-day3-100doc/></a></article><footer class=page-footer><nav class=pagination><a class=prev href=https://anantcode.github.io/tags/beginner/>« Prev Page</a>

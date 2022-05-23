@@ -77,7 +77,7 @@ We do have this Add New Meetup page here, which would allow users to enter data 
       <guid>https://anantcode.github.io/posts/2022-05-10-day4-100doc/</guid>
       <description>Build $ npm run build generates static pages.
 Terminal:
-Page Size First Load JS┌ ● / 724 B 78.2 kB├ └ css/233a1356c16eb650.css 416 B├ /_app 0 B 77.5 kB├ ○ /[noteId] 484 B 78 kB├ └ css/f0a2be9a550dc29f.css 79 B├ ○ /404 193 B 77.7 kB└ ○ /new-note 749 B 78.2 kB└ css/29ba8ee8d48d1f49.css 359 B+ First Load JS shared by all 77.5 kB├ chunks/framework-1f10003e17636e37.</description>
+Page Size First Load JS ┌ ● / 724 B 78.2 kB ├ └ css/233a1356c16eb650.css 416 B ├ /_app 0 B 77.5 kB ├ ○ /[noteId] 484 B 78 kB ├ └ css/f0a2be9a550dc29f.css 79 B ├ ○ /404 193 B 77.7 kB └ ○ /new-note 749 B 78.2 kB └ css/29ba8ee8d48d1f49.css 359 B + First Load JS shared by all 77.5 kB ├ chunks/framework-1f10003e17636e37.</description>
     </item>
     
     <item>

@@ -10,7 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 May 2022 21:57:09 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 22:23:53 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Next Project</title>
+      <link>https://anantcode.github.io/posts/2022-05-17-my-next-project/</link>
+      <pubDate>Tue, 17 May 2022 22:23:53 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-17-my-next-project/</guid>
+      <description>npx create-next-app took ~ 1min
+ Add components\note\NewNoteForm.js and its css return above component from main index.js pages\index.js
+import NewNoteForm from &amp;#34;../components/note/NewNoteForm&amp;#34;;  export default function Home() {  return &amp;lt;NewNoteForm /&amp;gt;; } Notice that Card is needed Add:
+ components\ui\Card.js components\ui\Card.module.css  Note finally looks: Styling needed at root: Remember this, maybe _app.js that will work on ALL pages. Will do later
+Customize NewNoteForm Add a heading
+remove unwanted fields and code to read them</description>
+    </item>
+    
     <item>
       <title>NextJS vs React</title>
       <link>https://anantcode.github.io/posts/2022-05-16-my-first-impressions-of-next-js-over-react/</link>
@@ -131,7 +145,7 @@ We do have this Add New Meetup page here, which would allow users to enter data 
       <guid>https://anantcode.github.io/posts/2022-05-10-day4-100doc/</guid>
       <description>Build $ npm run build generates static pages.
 Terminal:
-Page Size First Load JS┌ ● / 724 B 78.2 kB├ └ css/233a1356c16eb650.css 416 B├ /_app 0 B 77.5 kB├ ○ /[noteId] 484 B 78 kB├ └ css/f0a2be9a550dc29f.css 79 B├ ○ /404 193 B 77.7 kB└ ○ /new-note 749 B 78.2 kB└ css/29ba8ee8d48d1f49.css 359 B+ First Load JS shared by all 77.5 kB├ chunks/framework-1f10003e17636e37.</description>
+Page Size First Load JS ┌ ● / 724 B 78.2 kB ├ └ css/233a1356c16eb650.css 416 B ├ /_app 0 B 77.5 kB ├ ○ /[noteId] 484 B 78 kB ├ └ css/f0a2be9a550dc29f.css 79 B ├ ○ /404 193 B 77.7 kB └ ○ /new-note 749 B 78.2 kB └ css/29ba8ee8d48d1f49.css 359 B + First Load JS shared by all 77.5 kB ├ chunks/framework-1f10003e17636e37.</description>
     </item>
     
     <item>
