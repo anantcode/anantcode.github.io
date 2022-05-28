@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 May 2022 22:23:53 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 May 2022 10:32:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some cool Git Shortcuts</title>
+      <link>https://anantcode.github.io/posts/2022-05-28-git-techniques-shortcuts/</link>
+      <pubDate>Sat, 28 May 2022 10:32:39 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-28-git-techniques-shortcuts/</guid>
+      <description>Use this to improve how you use git</description>
+    </item>
+    
     <item>
       <title>My Next Project</title>
       <link>https://anantcode.github.io/posts/2022-05-17-my-next-project/</link>
