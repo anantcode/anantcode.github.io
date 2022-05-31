@@ -10,7 +10,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 May 2022 06:48:11 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 21:46:29 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day12 #100DaysOfCode</title>
+      <link>https://anantcode.github.io/posts/2022-05-31-day12-100doc/</link>
+      <pubDate>Tue, 31 May 2022 21:46:29 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-05-31-day12-100doc/</guid>
+      <description>Add .env file Added env_var.env file at root with following content:
+GOOGLE_ID=GOOGLE_SECRET= with the values.
+Also added it to gitignore
+Install node module dotenv npm install dotenv
+and in pages\api\auth\[...nextauth].js used at very start, this conditional require:
+if (process.env.NODE_ENV !== &amp;#34;production&amp;#34;) {  require(&amp;#34;dotenv&amp;#34;).config(); }  npm run dev - start my next app
+forgot to do the basic - npm install next-auth
+restart:
+Amazing! shows the login button because of change I did in components\layout\MainNavigation.</description>
+    </item>
+    
     <item>
       <title>Environment variables in Node.js</title>
       <link>https://anantcode.github.io/posts/2022-05-31-process-env-in-node/</link>
