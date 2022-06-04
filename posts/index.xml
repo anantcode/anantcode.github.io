@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jun 2022 23:05:52 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jun 2022 12:19:20 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day14 #100DaysOfCode</title>
+      <link>https://anantcode.github.io/posts/2022-06-04-day14-100doc/</link>
+      <pubDate>Sat, 04 Jun 2022 12:19:20 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-06-04-day14-100doc/</guid>
+      <description>Implement Google Signin with next-auth</description>
+    </item>
+    
     <item>
       <title>Day13 #100DaysOfCode</title>
       <link>https://anantcode.github.io/posts/2022-06-02-day13-100doc/</link>
