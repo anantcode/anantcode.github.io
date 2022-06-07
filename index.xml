@@ -23,7 +23,7 @@ User may copy
 Google how to show modal.
 Found this, following it: https://devrecipes.net/modal-component-with-next-js/
 It says to create a file _document.js that nextjs supports to render in a specific DOM node outside of root node of React.
-| The way to modify the root DOM structure of our app is to use the _document.js file, which is provided by the library.</description>
+ The way to modify the root DOM structure of our app is to use the _document.js file, which is provided by the library.</description>
     </item>
     
     <item>
