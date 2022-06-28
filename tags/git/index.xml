@@ -10,7 +10,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 10:32:39 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 21:19:33 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git - Remove Tracking Branches that are no longer on remote</title>
+      <link>https://anantcode.github.io/posts/2022-06-28-remove-tracking-branches-no-longer-on-remote/</link>
+      <pubDate>Tue, 28 Jun 2022 21:19:33 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-06-28-remove-tracking-branches-no-longer-on-remote/</guid>
+      <description>The remote tracking branches may still exist in your local after a feature branch is merged(to a main branch) and deleted from remote.
+The corresponding local branches too exist if you were too lazy to delete them.
+Is there a way to use the information available on remote (say only main branch and 1 more say develop exist on remote) -
+I want to:
+ Get rid of the remote tracking branches that my local still shows (although the actual remote branches are now deleted, probably because they were merged-and-then-deleted) Get rid of local branches that I was too lazy to delete - and which have been merged on remote already (and deleted - dont exist on remote anymore because merged)  Everything in above screenshot in 1 (except remotes/origin/main) - is non existent in reality on remote.</description>
+    </item>
+    
     <item>
       <title>Some cool Git Shortcuts</title>
       <link>https://anantcode.github.io/posts/2022-05-28-git-techniques-shortcuts/</link>

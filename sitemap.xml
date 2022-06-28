@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://anantcode.github.io/</loc>
-    <lastmod>2022-06-12T08:15:47+05:30</lastmod>
+    <lastmod>2022-06-28T21:19:33+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/beginner/</loc>
+    <lastmod>2022-06-28T21:19:33+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/git/</loc>
+    <lastmod>2022-06-28T21:19:33+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2022-06-28-remove-tracking-branches-no-longer-on-remote/</loc>
+    <lastmod>2022-06-28T21:19:33+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/</loc>
+    <lastmod>2022-06-28T21:19:33+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/</loc>
+    <lastmod>2022-06-28T21:19:33+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-06-12-day18-100doc/</loc>
     <lastmod>2022-06-12T08:15:47+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/nextjs/</loc>
-    <lastmod>2022-06-12T08:15:47+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/posts/</loc>
-    <lastmod>2022-06-12T08:15:47+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/</loc>
     <lastmod>2022-06-12T08:15:47+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/100doc/</loc>
@@ -65,9 +74,6 @@
     <loc>https://anantcode.github.io/posts/2022-05-28-day10-100doc/</loc>
     <lastmod>2022-05-28T11:36:04+05:30</lastmod>
   </url><url>
-    <loc>https://anantcode.github.io/tags/git/</loc>
-    <lastmod>2022-05-28T10:32:39+05:30</lastmod>
-  </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-28-git-techniques-shortcuts/</loc>
     <lastmod>2022-05-28T10:32:39+05:30</lastmod>
   </url><url>
@@ -93,9 +99,6 @@
     <lastmod>2022-05-16T20:19:38+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/100daysofcode/</loc>
-    <lastmod>2022-05-14T12:31:18+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/beginner/</loc>
     <lastmod>2022-05-14T12:31:18+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2022-05-14-day8-100doc/</loc>
