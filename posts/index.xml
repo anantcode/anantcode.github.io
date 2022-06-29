@@ -10,14 +10,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2022 21:19:33 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 18:03:02 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quickly check - Disk Size on your Windows machine</title>
+      <link>https://anantcode.github.io/posts/2022-06-29-disk-size-on-your-windows-machine/</link>
+      <pubDate>Wed, 29 Jun 2022 18:03:02 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-06-29-disk-size-on-your-windows-machine/</guid>
+      <description>Apart from
+diskmgmt.msc On cmd: wmic diskdrive get size
+C:\Users\Anant&amp;gt;wmic diskdrive get size Size 256052966400 Above shows ~ 256 GB
+256,052,966,400
+Same on diskmgnt.msc :</description>
+    </item>
+    
     <item>
       <title>Git - Remove Tracking Branches that are no longer on remote</title>
       <link>https://anantcode.github.io/posts/2022-06-28-remove-tracking-branches-no-longer-on-remote/</link>
       <pubDate>Tue, 28 Jun 2022 21:19:33 +0530</pubDate>
       
       <guid>https://anantcode.github.io/posts/2022-06-28-remove-tracking-branches-no-longer-on-remote/</guid>
-      <description>The remote tracking branches may still exist in your local after a feature branch is merged(to a main branch) and deleted from remote (the normal pull request, merge request)
+      <description>The remote tracking branches may still exist in your local after a feature branch is merged(to a main branch) and deleted from remote (the normal pull request workflow)
 The corresponding local branches too may exist and pile up locally, if you are too lazy to delete them.
 Is there a way to use the information available on remote (say only main branch exists on remote (the longest living branch.)) -</description>
     </item>

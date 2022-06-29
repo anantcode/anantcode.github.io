@@ -17,7 +17,7 @@
       <pubDate>Tue, 28 Jun 2022 21:19:33 +0530</pubDate>
       
       <guid>https://anantcode.github.io/posts/2022-06-28-remove-tracking-branches-no-longer-on-remote/</guid>
-      <description>The remote tracking branches may still exist in your local after a feature branch is merged(to a main branch) and deleted from remote (the normal pull request, merge request)
+      <description>The remote tracking branches may still exist in your local after a feature branch is merged(to a main branch) and deleted from remote (the normal pull request workflow)
 The corresponding local branches too may exist and pile up locally, if you are too lazy to delete them.
 Is there a way to use the information available on remote (say only main branch exists on remote (the longest living branch.)) -</description>
     </item>
