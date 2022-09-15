@@ -17,7 +17,10 @@
       <pubDate>Thu, 15 Sep 2022 21:04:15 +0530</pubDate>
       
       <guid>https://anantcode.github.io/posts/2022-09-15-execute-command-line-from-node/</guid>
-      <description>Desc Text.</description>
+      <description>Running shell commands in your node application:
+Found great explanation here,
+The Child Process Module When we execute shell commands, we are running code outside of our Node.js application. In order to do this, we need to run these commands in a child process.
+A child process is code that is run in a different thread (and process id) outside your Node.js application. However, we can still send and receive information from the child process using standard I/O streams.</description>
     </item>
     
     <item>
