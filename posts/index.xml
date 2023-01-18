@@ -10,7 +10,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Sep 2022 14:09:33 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 10:05:29 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Powershell ExecutionPolicy</title>
+      <link>https://anantcode.github.io/posts/2023-01-17-powershell-execution-policy/</link>
+      <pubDate>Tue, 17 Jan 2023 10:05:29 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-01-17-powershell-execution-policy/</guid>
+      <description>powershell </description>
+    </item>
+    
+    <item>
+      <title>React Native Setup - Intro</title>
+      <link>https://anantcode.github.io/posts/2023-01-16-react-native-first/</link>
+      <pubDate>Mon, 16 Jan 2023 14:24:13 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-01-16-react-native-first/</guid>
+      <description>My React Native experiments</description>
+    </item>
+    
+    <item>
+      <title>Hydration</title>
+      <link>https://anantcode.github.io/posts/2022-10-22-hydration/</link>
+      <pubDate>Sat, 22 Oct 2022 13:24:43 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-10-22-hydration/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>AMD vs ARM</title>
+      <link>https://anantcode.github.io/posts/2022-10-22-amd-vs-arm/</link>
+      <pubDate>Sat, 22 Oct 2022 13:09:35 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2022-10-22-amd-vs-arm/</guid>
+      <description>Choosing coorect windows binaries</description>
+    </item>
+    
     <item>
       <title>CSRF basics</title>
       <link>https://anantcode.github.io/posts/2022-09-24-csrf-basics/</link>
@@ -95,7 +131,7 @@ User may copy
 Google how to show modal.
 Found this, following it: https://devrecipes.net/modal-component-with-next-js/
 It says to create a file _document.js that nextjs supports to render in a specific DOM node outside of root node of React.
- The way to modify the root DOM structure of our app is to use the _document.js file, which is provided by the library.</description>
+The way to modify the root DOM structure of our app is to use the _document.js file, which is provided by the library.</description>
     </item>
     
     <item>
@@ -154,7 +190,7 @@ GOOGLE_ID=GOOGLE_SECRET= with the values.
 Also added it to gitignore
 Install node module dotenv npm install dotenv
 and in pages\api\auth\[...nextauth].js used at very start, this conditional require:
-if (process.env.NODE_ENV !== &amp;#34;production&amp;#34;) {  require(&amp;#34;dotenv&amp;#34;).config(); }  npm run dev - start my next app
+if (process.env.NODE_ENV !== &amp;#34;production&amp;#34;) { require(&amp;#34;dotenv&amp;#34;).config(); } npm run dev - start my next app
 forgot to do the basic - npm install next-auth
 restart:
 Amazing! shows the login button because of change I did in components\layout\MainNavigation.</description>
@@ -203,9 +239,9 @@ Amazing! shows the login button because of change I did in components\layout\Mai
       
       <guid>https://anantcode.github.io/posts/2022-05-17-my-next-project/</guid>
       <description>npx create-next-app took ~ 1min
- Add components\note\NewNoteForm.js and its css return above component from main index.js pages\index.js
-import NewNoteForm from &amp;#34;../components/note/NewNoteForm&amp;#34;;  export default function Home() {  return &amp;lt;NewNoteForm /&amp;gt;; } Notice that Card is needed Add:
- components\ui\Card.js components\ui\Card.module.css  Note finally looks: Styling needed at root: Remember this, maybe _app.js that will work on ALL pages. Will do later
+Add components\note\NewNoteForm.js and its css return above component from main index.js pages\index.js
+import NewNoteForm from &amp;#34;../components/note/NewNoteForm&amp;#34;; export default function Home() { return &amp;lt;NewNoteForm /&amp;gt;; } Notice that Card is needed Add:
+components\ui\Card.js components\ui\Card.module.css Note finally looks: Styling needed at root: Remember this, maybe _app.js that will work on ALL pages. Will do later
 Customize NewNoteForm Add a heading
 remove unwanted fields and code to read them</description>
     </item>
@@ -247,8 +283,8 @@ index.html contains bundle.js</description>
       
       <guid>https://anantcode.github.io/posts/2022-05-14-day8-100doc/</guid>
       <description>Now extend the fetching from MongoDB to
- Individual page (dynamic page) of next. On the same dynamic page, the URLs also we will get from the DB (GSPa)  Both of these to be done in dynamic page [ ]
-fetching URLs for GSPa export async function getStaticPaths() {  const uri = `mongodb+srv://${secret.user}:${secret.pass}@cluster0.xf7jy.mongodb.net/myFirstDB?retryWrites=true&amp;amp;w=majority`;  const client = await MongoClient.connect(uri);  const db = client.db();  const notesCollection = db.</description>
+Individual page (dynamic page) of next. On the same dynamic page, the URLs also we will get from the DB (GSPa) Both of these to be done in dynamic page [ ]
+fetching URLs for GSPa export async function getStaticPaths() { const uri = `mongodb+srv://${secret.user}:${secret.pass}@cluster0.xf7jy.mongodb.net/myFirstDB?retryWrites=true&amp;amp;w=majority`; const client = await MongoClient.connect(uri); const db = client.db(); const notesCollection = db.collection(&amp;#34;notesColl2&amp;#34;); const notesIds = await notesCollection.find({}, { _id: 1 }).</description>
     </item>
     
     <item>
@@ -258,8 +294,8 @@ fetching URLs for GSPa export async function getStaticPaths() {  const uri = `mo
       
       <guid>https://anantcode.github.io/posts/2022-05-14-day7-100doc/</guid>
       <description>In last post
- MongoDB was set up - able to store data from a form.  Redirecting to homepage after successful form submit. Use useRouter to do it:
- In pages/new-note/index.js  import { useRouter } from &amp;#39;next/router&amp;#39;  ..  const router = useRouter(); // as usual, hook should be called first in react functional component   //after successful response of submit  router.replace(&amp;#34;/&amp;#34;); // or push() Getting data from mongoDB  We could do it like, in page component GSP write a connection to our API route &amp;gt; that API route connects to mongoDB  i.</description>
+MongoDB was set up - able to store data from a form. Redirecting to homepage after successful form submit. Use useRouter to do it:
+In pages/new-note/index.js import { useRouter } from &amp;#39;next/router&amp;#39; .. const router = useRouter(); // as usual, hook should be called first in react functional component //after successful response of submit router.replace(&amp;#34;/&amp;#34;); // or push() Getting data from mongoDB We could do it like, in page component GSP write a connection to our API route &amp;gt; that API route connects to mongoDB i.</description>
     </item>
     
     <item>
@@ -270,7 +306,7 @@ fetching URLs for GSPa export async function getStaticPaths() {  const uri = `mo
       <guid>https://anantcode.github.io/posts/2022-05-11-day6-100doc/</guid>
       <description>Day 6 Using mongoDB in the nextjs app.
 So far covered:
- getStaticProps, and getStaticPaths and getServerSideProps They allow us to fetch data for pre-rendering those pages, So that we pre-render the pages with the data, instead of without the data they might need.  Upto this point, we&amp;rsquo;re only working with dummy data though (not actually fetching from anywhere) - it is actually hard-coded data
+getStaticProps, and getStaticPaths and getServerSideProps They allow us to fetch data for pre-rendering those pages, So that we pre-render the pages with the data, instead of without the data they might need. Upto this point, we&amp;rsquo;re only working with dummy data though (not actually fetching from anywhere) - it is actually hard-coded data
 We do have this Add New Meetup page here, which would allow users to enter data for a new meetup.</description>
     </item>
     
@@ -281,9 +317,9 @@ We do have this Add New Meetup page here, which would allow users to enter data 
       
       <guid>https://anantcode.github.io/posts/2022-05-10-day5-100doc/</guid>
       <description>Day 5 Key learnings:
-  React hooks like useRouter cant be used in GSP (getStaticProps) - it can only be used in React function component.
- So can&amp;rsquo;t use useRouter to get the slug (like ID of note/post). But we dont need it - we have context param in GSP.    In GSP the context will not hold req and res - it has params:
- the params object has  key = the thing between [] in the filename.</description>
+React hooks like useRouter cant be used in GSP (getStaticProps) - it can only be used in React function component.
+So can&amp;rsquo;t use useRouter to get the slug (like ID of note/post). But we dont need it - we have context param in GSP. In GSP the context will not hold req and res - it has params:
+the params object has key = the thing between [] in the filename.</description>
     </item>
     
     <item>
@@ -330,7 +366,7 @@ We do have this Add New Meetup page here, which would allow users to enter data 
       <guid>https://anantcode.github.io/posts/2022-05-10-day4-100doc/</guid>
       <description>Build $ npm run build generates static pages.
 Terminal:
-Page Size First Load JS ┌ ● / 724 B 78.2 kB ├ └ css/233a1356c16eb650.css 416 B ├ /_app 0 B 77.5 kB ├ ○ /[noteId] 484 B 78 kB ├ └ css/f0a2be9a550dc29f.css 79 B ├ ○ /404 193 B 77.7 kB └ ○ /new-note 749 B 78.2 kB └ css/29ba8ee8d48d1f49.css 359 B + First Load JS shared by all 77.5 kB ├ chunks/framework-1f10003e17636e37.</description>
+Page Size First Load JS┌ ● / 724 B 78.2 kB├ └ css/233a1356c16eb650.css 416 B├ /_app 0 B 77.5 kB├ ○ /[noteId] 484 B 78 kB├ └ css/f0a2be9a550dc29f.css 79 B├ ○ /404 193 B 77.7 kB└ ○ /new-note 749 B 78.2 kB└ css/29ba8ee8d48d1f49.css 359 B+ First Load JS shared by all 77.5 kB├ chunks/framework-1f10003e17636e37.</description>
     </item>
     
     <item>
@@ -342,7 +378,8 @@ Page Size First Load JS ┌ ● / 724 B 78.2 kB ├ └ css/233a1356c16eb650.css
       <description>Replace mock data with a real datasource:
 Send HTTP request once the page has loaded - we would typically use useEffect() Runs whenever component is frist rendered, never after. Do: fetch your data inside it.
 Manage state for the component - use useState() hook
-const [loadedNotes, setLoadedNotes] = useState([]);  useEffect(()=&amp;gt; {  //send http request and fetch data.  //set on component  setLoadedNotes(LOADED_NOTES); }, []); Full code (with function component):</description>
+const [loadedNotes, setLoadedNotes] = useState([]); useEffect(()=&amp;gt; { //send http request and fetch data. //set on component setLoadedNotes(LOADED_NOTES); }, []); Full code (with function component):
+function HomePage(){ const [loadedNotes, setLoadedNotes] = useState([]); useEffect(()=&amp;gt; { //send http request and fetch data.</description>
     </item>
     
     <item>
@@ -352,7 +389,7 @@ const [loadedNotes, setLoadedNotes] = useState([]);  useEffect(()=&amp;gt; {  //
       
       <guid>https://anantcode.github.io/posts/2022-05-08-day2-100doc/</guid>
       <description>Day 2 Key Learnings:
- pages folder name is reserved in nextjs.  Others like components is not reserved.   How props are passed to a component. Utilize _app.js for anything that affects all pages like Layout - wrap with Layout component, Navigation (with links) etc Using Programmatic (Imperative) Navigation  The usual rule of a Reach Hook:  Only use directly only at the root level of component function.</description>
+pages folder name is reserved in nextjs. Others like components is not reserved. How props are passed to a component. Utilize _app.js for anything that affects all pages like Layout - wrap with Layout component, Navigation (with links) etc Using Programmatic (Imperative) Navigation The usual rule of a Reach Hook: Only use directly only at the root level of component function. (e.g. using useRouter) useRouter has not just query that gives slug, it also has push() whose job is equivalent to Link component Starting point of project with some templates</description>
     </item>
     
     <item>
