@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jan 2023 10:05:29 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 16:28:35 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Git Bash Terminal From Existing</title>
+      <link>https://anantcode.github.io/posts/2023-02-25-new-git-bash-window-from-existing/</link>
+      <pubDate>Sat, 25 Feb 2023 16:28:35 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-02-25-new-git-bash-window-from-existing/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Powershell ExecutionPolicy</title>
       <link>https://anantcode.github.io/posts/2023-01-17-powershell-execution-policy/</link>
