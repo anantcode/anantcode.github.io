@@ -10,7 +10,30 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 16:28:35 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 May 2023 17:52:43 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 05 31 Docker</title>
+      <link>https://anantcode.github.io/posts/2023-05-31-docker/</link>
+      <pubDate>Wed, 31 May 2023 17:52:43 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-05-31-docker/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Something Already Running on Port XXX</title>
+      <link>https://anantcode.github.io/posts/2023-02-25-something-already-running-on-port/</link>
+      <pubDate>Sat, 25 Feb 2023 20:17:08 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-02-25-something-already-running-on-port/</guid>
+      <description>Ports and what they mean as a process:
+Sometimes working on react app, you run into issues like:
+Something is already running on port 3000. To handle this:
+For Linux/Mac OS search (sudo) run this in the terminal:
+$ lsof -i tcp:3000$ kill -9 PID On Windows:
+netstat -ano | findstr :3000tskill typeyourPIDhere change tskill for taskkill in git bash Source: referring to this SO: https://stackoverflow.com/a/45130296</description>
+    </item>
+    
     <item>
       <title>New Git Bash Terminal From Existing</title>
       <link>https://anantcode.github.io/posts/2023-02-25-new-git-bash-window-from-existing/</link>
