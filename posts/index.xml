@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2023 17:52:43 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 20:53:16 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet doesnt work in vm Kali Linux (on VMWare Player)</title>
+      <link>https://anantcode.github.io/posts/2023-06-10-kali-linux-vm-internet-not-working/</link>
+      <pubDate>Sat, 10 Jun 2023 20:53:16 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-06-10-kali-linux-vm-internet-not-working/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>2023 05 31 Docker</title>
       <link>https://anantcode.github.io/posts/2023-05-31-docker/</link>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linux on Anant Code</title>
+    <link>https://anantcode.github.io/tags/linux/</link>
+    <description>Recent content in linux on Anant Code</description>
+    <image>
+      <url>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anantcode.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jun 2023 20:53:16 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet doesnt work in vm Kali Linux (on VMWare Player)</title>
+      <link>https://anantcode.github.io/posts/2023-06-10-kali-linux-vm-internet-not-working/</link>
+      <pubDate>Sat, 10 Jun 2023 20:53:16 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-06-10-kali-linux-vm-internet-not-working/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

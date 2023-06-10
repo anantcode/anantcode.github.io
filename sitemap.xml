@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://anantcode.github.io/</loc>
+    <lastmod>2023-06-10T20:53:16+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2023-06-10-kali-linux-vm-internet-not-working/</loc>
+    <lastmod>2023-06-10T20:53:16+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/kali-linux/</loc>
+    <lastmod>2023-06-10T20:53:16+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/linux/</loc>
+    <lastmod>2023-06-10T20:53:16+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/</loc>
+    <lastmod>2023-06-10T20:53:16+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/</loc>
+    <lastmod>2023-06-10T20:53:16+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/tags/vm/</loc>
+    <lastmod>2023-06-10T20:53:16+05:30</lastmod>
+  </url><url>
     <loc>https://anantcode.github.io/posts/2023-05-31-docker/</loc>
     <lastmod>2023-05-31T17:52:43+05:30</lastmod>
   </url><url>
-    <loc>https://anantcode.github.io/</loc>
-    <lastmod>2023-05-31T17:52:43+05:30</lastmod>
-  </url><url>
     <loc>https://anantcode.github.io/tags/first/</loc>
-    <lastmod>2023-05-31T17:52:43+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/posts/</loc>
-    <lastmod>2023-05-31T17:52:43+05:30</lastmod>
-  </url><url>
-    <loc>https://anantcode.github.io/tags/</loc>
     <lastmod>2023-05-31T17:52:43+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2023-02-25-something-already-running-on-port/</loc>
