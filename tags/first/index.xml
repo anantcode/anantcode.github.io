@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jun 2023 17:36:05 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jun 2023 11:42:58 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An interesting case study - GitHub services outage</title>
+      <link>https://anantcode.github.io/posts/2023-06-14-cross-region-failover-github-down-casestudy/</link>
+      <pubDate>Wed, 14 Jun 2023 11:42:58 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-06-14-cross-region-failover-github-down-casestudy/</guid>
+      <description>Some of the Github services were Down on October 21st, 2018. Blame `Cross Region failover` that was not handled.</description>
+    </item>
+    
     <item>
       <title>sudo dhclient eth0 everytime Linux starts</title>
       <link>https://anantcode.github.io/posts/2023-06-11-sudo-dhclient-eth0/</link>
