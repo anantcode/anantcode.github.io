@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anantcode.github.io/posts/2023-06-14-cross-region-failover-github-down-casestudy/</loc>
-    <lastmod>2023-06-14T11:42:58+05:30</lastmod>
-  </url><url>
     <loc>https://anantcode.github.io/</loc>
-    <lastmod>2023-06-14T11:42:58+05:30</lastmod>
+    <lastmod>2023-07-07T17:09:56+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/first/</loc>
-    <lastmod>2023-06-14T11:42:58+05:30</lastmod>
+    <lastmod>2023-07-07T17:09:56+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/</loc>
-    <lastmod>2023-06-14T11:42:58+05:30</lastmod>
+    <lastmod>2023-07-07T17:09:56+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2023-07-07-starting-vscode-in-linux/</loc>
+    <lastmod>2023-07-07T17:09:56+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/tags/</loc>
+    <lastmod>2023-07-07T17:09:56+05:30</lastmod>
+  </url><url>
+    <loc>https://anantcode.github.io/posts/2023-06-14-cross-region-failover-github-down-casestudy/</loc>
     <lastmod>2023-06-14T11:42:58+05:30</lastmod>
   </url><url>
     <loc>https://anantcode.github.io/posts/2023-06-11-sudo-dhclient-eth0/</loc>
