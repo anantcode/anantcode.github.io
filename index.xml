@@ -10,7 +10,30 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2023 17:09:56 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 08:55:29 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How SSL works</title>
+      <link>https://anantcode.github.io/posts/2023-07-17-sssl-handshake/</link>
+      <pubDate>Mon, 17 Jul 2023 08:55:29 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-07-17-sssl-handshake/</guid>
+      <description>Excellent explanation on
+How SSL works What are CA https://youtu.be/iQsKdtjwtYI and related blog on SSL Certificates: http://www.steves-internet-guide.com/ssl-certificates-explained/
+A digital certificate provides a convenient way of distributing trusted public encryption keys.
+Example Usage To illustrate we will look at a typical web browser and web server connection using SSL. (https).
+This connection is used on the Internet to send email in Gmail etc and when doing online banking,shopping etc.
+Browser connects to server Using SSL (https) Server Responds with Server Certificate containing the public key of the web server.</description>
+    </item>
+    
+    <item>
+      <title>Access Token in GET Request</title>
+      <link>https://anantcode.github.io/posts/2023-07-12-access-token-in-get-request/</link>
+      <pubDate>Wed, 12 Jul 2023 08:27:32 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2023-07-12-access-token-in-get-request/</guid>
+      <description>good to send the Access Token in query params?</description>
+    </item>
+    
     <item>
       <title>Starting Vscode in Linux [Pending]</title>
       <link>https://anantcode.github.io/posts/2023-07-07-starting-vscode-in-linux/</link>
