@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2023 09:44:20 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jan 2024 10:00:11 +0530</lastBuildDate><atom:link href="https://anantcode.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Da Vinci Resolve - Learn by using</title>
+      <link>https://anantcode.github.io/posts/2024-01-08-da-vinci-resolve-learn/</link>
+      <pubDate>Mon, 08 Jan 2024 10:00:11 +0530</pubDate>
+      
+      <guid>https://anantcode.github.io/posts/2024-01-08-da-vinci-resolve-learn/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>gRPC - what is it</title>
       <link>https://anantcode.github.io/posts/2023-07-24-grpc-intro/</link>
